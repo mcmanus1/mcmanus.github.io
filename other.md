@@ -6,4 +6,4 @@ permalink: /other/
 
 # Other Interests
 coming soon
----
+
