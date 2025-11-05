@@ -1,1 +1,0 @@
-# mcmanus.github.io
