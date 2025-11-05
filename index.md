@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Website
+title: Home
 ---
 
 # Hello!
