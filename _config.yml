@@ -2,9 +2,19 @@
 title: Meaghan McManus
 email: meaghan.mcmanus@psychol.uni-giessen.de
 author: Meaghan McManus
-description:  under construction
+description: under construction
+# Remote theme
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
+
+# Sidebar navigation order
+nav_order:
+  - index.md
+  - about.md
+  - publications.md
+  - updates.md
+  - other-interests.md
+  - cv.md
 
 ---
