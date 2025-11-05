@@ -1,3 +1,4 @@
 theme: minima
 title: My Website
 description: Just testing GitHub Pages
+baseurl: "/mcmanus.github.io"
