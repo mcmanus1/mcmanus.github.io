@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other
-permalink: /Other/
+permalink: /other/
 ---
 
 # Other Interests
