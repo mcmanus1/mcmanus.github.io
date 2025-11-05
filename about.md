@@ -1,6 +1,6 @@
 ---
 title: About
-layout: single
+layout: default
 permalink: /About/
 ---
 testest
