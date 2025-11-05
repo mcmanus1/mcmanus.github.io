@@ -1,6 +1,7 @@
 ---
+layout: home
 title: Home
 ---
 
 # Hello!
-testtest 
+This will be my homepage.  
