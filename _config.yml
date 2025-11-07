@@ -13,6 +13,8 @@ just_the_docs:
     - "/assets/css/custom.css"
 
 # Sidebar logo
+title: Meaghan McManus
+description: "Postdoctoral Researcher • University of Giessen"
 logo: "/assets/Meaghan.png"
 logo_alt: "Meaghan McManus"
 logo_width: 250
