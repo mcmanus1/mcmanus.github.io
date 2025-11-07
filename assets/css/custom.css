@@ -1,22 +1,22 @@
 /* Custom sidebar logo */
 .side-bar .custom-sidebar-logo {
-    text-align: center !important;
-    padding: 0.5rem !important;
+    text-align: center;
+    padding: 0.5rem;
 }
 
 .side-bar .custom-sidebar-logo img.custom-logo {
-    width: 10px !important;        /* Adjust size here */
-    height: auto !important;       /* Keep aspect ratio */
-    border-radius: 50% !important;
-    display: block !important;
-    margin: 0 auto 0.25rem auto !important;
-    object-fit: cover !important;
+    width: 80px;           /* Adjust size here */
+    height: auto;          /* Keep original aspect ratio */
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 0.25rem auto;
+    object-fit: cover;
 }
 
 .side-bar .custom-sidebar-logo .custom-logo-text {
-    font-size: 0.9rem !important;
-    color: #333 !important;
-    margin: 0 !important;
-    line-height: 1.2 !important;
-    text-align: center !important;
+    font-size: 0.9rem;
+    color: #333;
+    margin: 0;
+    line-height: 1.2;
+    text-align: center;
 }
