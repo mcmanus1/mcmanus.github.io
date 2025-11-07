@@ -1,23 +1,24 @@
-/* Sidebar logo container */
-.custom-sidebar-logo {
-  text-align: center;
-  padding: 0.5rem;        /* smaller padding */
+/* Make the sidebar logo smaller */
+.side-bar .custom-sidebar-logo img.custom-logo {
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 50% !important;
+    display: block !important;
+    margin: 0 auto 0.25rem auto !important;
+    object-fit: cover !important;
 }
 
-/* Sidebar logo image */
-.custom-sidebar-logo .custom-logo {
-  width: 60px !important;     /* make smaller */
-  height: 60px !important;
-  border-radius: 50% !important;
-  display: block !important;
-  margin: 0 auto 0.5rem auto !important;
-  object-fit: cover !important;
+/* Text below the image */
+.side-bar .custom-sidebar-logo .custom-logo-text {
+    font-size: 0.8rem !important;
+    color: #333 !important;
+    margin: 0 !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
 }
 
-/* Text below image */
-.custom-sidebar-logo .custom-logo-text {
-  font-size: 0.8rem;      /* smaller text */
-  color: #333;
-  margin: 0;
-  line-height: 1.2;
+/* Container padding */
+.side-bar .custom-sidebar-logo {
+    text-align: center !important;
+    padding: 0.5rem !important;
 }
