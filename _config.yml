@@ -6,6 +6,10 @@ description: under construction
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
+  aux_links: # optional section
+  collections:
+  custom_css:
+    - "/assets/css/custom.scss"
 
 # Sidebar navigation order
 nav_sort: case_insensitive
