@@ -6,13 +6,12 @@
 
 /* Sidebar logo image */
 .custom-sidebar-logo .custom-logo {
-  width: 60px;            /* adjust to a small size */
-  height: 60px;           /* keep square */
-  max-width: 100%;        /* responsive */
-  border-radius: 50%;     /* circle */
-  display: block;
-  margin: 0 auto 0.25rem auto;
-  object-fit: cover;
+  width: 60px !important;     /* make smaller */
+  height: 60px !important;
+  border-radius: 50% !important;
+  display: block !important;
+  margin: 0 auto 0.5rem auto !important;
+  object-fit: cover !important;
 }
 
 /* Text below image */
