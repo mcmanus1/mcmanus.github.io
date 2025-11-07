@@ -1,7 +1,7 @@
 /* Make the homepage logo smaller */
 img.small-image {
-  width: 60px !important;
-  height: 60px !important;
+  width: 250px !important;
+  height: 250px !important;
   border-radius: 50% !important;
   display: block !important;
   margin: 1rem auto !important;
@@ -19,5 +19,5 @@ img.small-image {
 
 /* Push sidebar links down so they don't overlap the logo */
 .sidebar .nav-group {
-  margin-top: 80px;      /* matches logo height + spacing */
+  margin-top: 250px;      /* matches logo height + spacing */
 }
