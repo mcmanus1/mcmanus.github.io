@@ -6,8 +6,11 @@ description: under construction
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
-  aux_links: # optional section
-  collections:
+
+# Optional Just the Docs settings
+just_the_docs:
+  aux_links: # (Optional) Add external links to header
+    GitHub: https://github.com/<your-username>/<your-repo>
   custom_css:
     - "/assets/css/custom.scss"
 
