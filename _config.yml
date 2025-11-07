@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
 
 # Optional Just the Docs settings
-just_the_docs:
+just_the_docs:  
   custom_css:
     - "/assets/css/custom.scss"
 
