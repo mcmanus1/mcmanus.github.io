@@ -9,8 +9,6 @@ plugins:
 
 # Optional Just the Docs settings
 just_the_docs:
-  aux_links: # (Optional) Add external links to header
-    GitHub: https://github.com/meaghanmcmanus/meaghanmcmanus.github.io
   custom_css:
     - "/assets/custom.scss"
 
