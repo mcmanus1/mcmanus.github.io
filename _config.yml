@@ -15,8 +15,8 @@ just_the_docs:
 # Sidebar logo
 logo: "/assets/Meaghan.png"
 logo_alt: "Meaghan McManus"
-logo_width: 60
-logo_height: 60
+logo_width: 250
+logo_height: 250
 
 # Sidebar navigation order
 nav_sort: case_insensitive
